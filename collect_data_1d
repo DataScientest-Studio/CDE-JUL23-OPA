@@ -1,2 +1,0 @@
-#!/bin/bash
- curl -X GET "https://api.binance.com/api/v3/klines?symbol=BTCEUR&interval=1d&startTime=1635721200000&endTime=1698793199000&limit=1000" | jq . > /home/jsaye/Projet/Data_brute/1d_granul.json
