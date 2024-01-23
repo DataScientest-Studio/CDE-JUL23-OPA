@@ -1,0 +1,25 @@
+> db.CandlessticksCollection.find().pretty()
+{
+        "_id" : ObjectId("65a4f0258b036b979dc8c523"),
+        "date" : ISODate("2024-01-15T09:43:17.149Z"),
+        "close" : 39101.51,
+        "high" : 39101.51,
+        "low" : 39101.51,
+        "timestamp" : ISODate("2024-01-15T09:43:17.149Z")
+}
+{
+        "_id" : ObjectId("65a4f0268b036b979dc8c525"),
+        "date" : ISODate("2024-01-15T09:43:18.231Z"),
+        "close" : 39101.51,
+        "high" : 39101.51,
+        "low" : 39101.51,
+        "timestamp" : ISODate("2024-01-15T09:43:18.231Z")
+}
+{
+        "_id" : ObjectId("65a4f0278b036b979dc8c527"),
+        "date" : ISODate("2024-01-15T09:43:19.316Z"),
+        "close" : 39101.51,
+        "high" : 39101.51,
+        "low" : 39101.51,
+        "timestamp" : ISODate("2024-01-15T09:43:19.316Z")
+}
